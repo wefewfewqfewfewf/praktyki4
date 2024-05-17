@@ -1,0 +1,55 @@
+body,.topnav,button{
+    background: linear-gradient(45deg,#12c2e9,#c471ed,#f64f59);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:black;
+    }
+  
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+    }
+    #inputSection {
+      display: none;
+  }
+  p{
+text-align: center;
+
+
+  }
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .topnav-right {
+      float: right;
+    }
+
+    img{
+      width:70px; height:70px;
+
+    }
+    .nava{
+
+      width:150px;
+      height:150px;
+    }
+    button{
+border: none !important;;
+
+    }
+    h1,h2{
+color:black;
+
+    }
+    .modal-body{
+      text-align:center ;
+    }
+    
